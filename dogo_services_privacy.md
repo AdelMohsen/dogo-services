@@ -1,40 +1,73 @@
 # Privacy Policy
 
-[[DOGO serivces]] takes your privacy seriously. To better protect your privacy [["we"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+**DOGO Services** ("we," "our," or "us") values your privacy and is committed to protecting the personal and sensitive information you share with us. This Privacy Policy explains how we collect, use, and safeguard your information, including location data, and applies to all users of our mobile application ("app"). By using our app, you agree to the terms of this Privacy Policy.
 
+---
 
-## Collection of Routine Information
+## Information We Collect
 
-This [["app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["app"]]. The information is tracked for routine administration and maintenance purposes.
+### Personal and Sensitive Information
+We may collect the following types of information from you:
+- **Location Data**: If you allow location access, we may collect your device's precise or approximate location to provide location-based features, such as showing nearby services.  
+- **Other Data**: IP address, app details, timestamps, and referring pages, for routine administration and maintenance.
 
+---
 
-## Cookies
+## Use of Information
 
-Where necessary, this [["app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
+We use the information we collect for purposes including:
+- Improving and personalizing your experience with the app.
+- Providing location-based services and features.
+- Administering the app and troubleshooting technical issues.
+- Analyzing app usage trends to improve functionality.
 
+---
 
-## Advertisement and Other Third Parties
+## Data Sharing and Third-Party Access
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+We may share your data in the following ways:
+- **Third-Party Services**: We may share information with trusted third parties for analytics, advertising, and other purposes (e.g., Google Analytics, AdMob). These third parties adhere to their own privacy policies.
+- **Compliance with Laws**: We may share information when required to comply with legal obligations.
 
+---
 
-## Links to Third Party Websites
+## Data Retention and Deletion
 
-[["We"]] have included links on this [["app"]] for your use and reference. [["We"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["my"]] own.
+We retain your data only as long as necessary for the purposes outlined in this policy. You may request data deletion by contacting us via the email below. Data will be securely deleted in compliance with applicable laws and regulations.
 
+---
+
+## Cookies and Tracking Technologies
+
+The app may use cookies and similar technologies to enhance your experience, such as storing your preferences and tracking app usage. You can disable cookies through your device settings, though some app features may be affected.
+
+---
 
 ## Security
 
-The security of your personal information is important to [["me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["I"]] strive to use commercially acceptable means to protect your personal information, [["I"]] cannot guarantee its absolute security.
+We use industry-standard security measures to protect your personal and sensitive information. However, no system is completely secure, and we cannot guarantee absolute security.
 
+---
 
-## Changes To This Privacy Policy
+## Your Rights
 
-This Privacy Policy is effective as of [[05/06/2024]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+You have the following rights regarding your data:
+- Access your data.
+- Request corrections or deletions.
+- Revoke location access through your device settings.
 
-[["I"]] reserve the right to update or change [["my"]] Privacy Policy at any time and you should check this Privacy Policy periodically. If [["I"]] make any material changes to this Privacy Policy, [["I"]] will notify you either through the email address you have provided [["me"]], or by placing a prominent notice on [["my"]] [["app"]].
+---
 
+## Changes to this Privacy Policy
 
-## Contact Information
+This policy is effective as of **12/21/2024** and may be updated periodically. Changes will be posted in the app and on our website. Material updates will be communicated via email or prominent app notifications.
 
-For any questions or concerns regarding the privacy policy, please send [["me"]] an email to [[oq.app.oq@gmail.com]].
+---
+
+## Contact Us
+
+For questions, concerns, or inquiries about this Privacy Policy, contact us at:
+
+- **Email**: oq.app.oq@gmail.com  
+- **Entity Name**: DOGO Services  
+- **Privacy Contact**: oq.app.oq@gmail.com
