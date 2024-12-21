@@ -10,6 +10,12 @@
 We may collect the following types of information from you:
 - **Location Data**: If you allow location access, we may collect your device's precise or approximate location to provide location-based features, such as showing nearby services.  
 - **Other Data**: IP address, app details, timestamps, and referring pages, for routine administration and maintenance.
+### Collection of Location Data  
+- **Purpose:** Location data is collected to monitor delivery progress, optimize delivery routes, and ensure driver safety.  
+- **Scope:** Location data is collected even when the app is closed or not in use.  
+- **Retention:** The data is retained for as long as necessary to support delivery operations.  
+- **Sharing:** Location data is strictly used for internal company purposes and will not be shared with third parties, except as required by law.  
+
 
 ---
 
